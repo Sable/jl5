@@ -1,0 +1,6 @@
+## Location of Polyglot classes jar file
+polyglot.jar=${user.home}/polyglotclasses-1.3.jar
+
+## Location in which to generate release tarballs.
+release.loc=lib
+
